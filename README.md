@@ -1,10 +1,13 @@
 # bootstrap-login-template
 Bootstrap Login Template is a fully responsive template for Bootstrap lover's,  which include simple form and buttons - Created by Bootcatch team.
 
+[![bootstrap-login-template](http://preview.bootcatch.com/bootstrap-login-template/img/simple-login.png)](http://preview.bootcatch.com/bootstrap-login-template/)
+
 ## About
 
 Bootcatch is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
+* http://preview.bootcatch.com/bootstrap-login-template/
 * http://bootcatch.com
 
 ## Usage
